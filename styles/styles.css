@@ -1,0 +1,18 @@
+#topbar , #productos, #tintos, #blancos, #estuches, #contacto{
+    background-color:#97072d ;
+}
+#topbar li {
+    list-style:none;
+}
+.logo-pag {
+    width: 20rem;
+}
+body { 
+    font-family: 'Pompiere', cursive;
+}
+footer {
+    font-family: 'Caveat', cursive;
+}
+.card {
+    box-shadow: 3px 4px #97072d;
+}
